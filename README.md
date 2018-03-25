@@ -24,4 +24,4 @@ Reinforcement Learning Sample Games by Unity ML-Agents
 
 4. Download and import My Game unitypackage
 
-5. Play game
+5. Open scene and play game
