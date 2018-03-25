@@ -16,4 +16,5 @@ Reinforcement Learning Sample Games by Unity ML-Agents
 2. Download and import Tensorflow sharp  
 [Using TensorFlowSharp in Unity (Experimental)](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity.md)
 
-3. 
+3. Open on Unity, Edit > Project Settings > Player > Other Settings  
+
