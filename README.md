@@ -18,6 +18,7 @@ Reinforcement Learning Sample Games by Unity ML-Agents
 
 3. Open on Unity, Edit > Project Settings > Player > Other Settings  
 <img width="233" alt="snapcrab_noname_2018-3-25_21-3-9_no-00" src="https://user-images.githubusercontent.com/31748235/37875642-3e6d2f6a-307d-11e8-8a0d-05149c7763b3.png">　　
+
 Setup Scripting Define Symbols like image
 
 4. Download and import My Game unitypackage
